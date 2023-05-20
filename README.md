@@ -1,4 +1,4 @@
-### Hello. As a developer, my goal is to become an AI engineer and contribute to society through innovative and socially responsible AI solutions. 👋
+### As a developer, my goal is to become an AI engineer and contribute to society through innovative and socially responsible AI solutions. 👋
 
 <!--
 **QuanterNoh/QuanterNoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
