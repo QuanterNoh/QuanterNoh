@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=Neo4j&logoColor=white"/>
 </p>
 
 <h2> Tutorials </h2>
